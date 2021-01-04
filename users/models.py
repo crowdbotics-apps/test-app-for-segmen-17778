@@ -23,6 +23,222 @@ class User(AbstractUser):
         blank=True,
         max_length=255,
     )
+    field_1 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_2 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_3 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_4 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_5 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_6 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_7 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_8 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    field_9 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
+
+    def get_absolute_url(self):
+        return reverse("users:detail", kwargs={"username": self.username})
 
     def get_absolute_url(self):
         return reverse("users:detail", kwargs={"username": self.username})
