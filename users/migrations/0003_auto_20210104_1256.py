@@ -6,53 +6,53 @@ from django.db import migrations, models
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('users', '0002_auto_20210101_1212'),
+        ("users", "0002_auto_20210101_1212"),
     ]
 
     operations = [
         migrations.AddField(
-            model_name='user',
-            name='field_1',
+            model_name="user",
+            name="field_1",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_2',
+            model_name="user",
+            name="field_2",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_3',
+            model_name="user",
+            name="field_3",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_4',
+            model_name="user",
+            name="field_4",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_5',
+            model_name="user",
+            name="field_5",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_6',
+            model_name="user",
+            name="field_6",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_7',
+            model_name="user",
+            name="field_7",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_8',
+            model_name="user",
+            name="field_8",
             field=models.BigIntegerField(blank=True, null=True),
         ),
         migrations.AddField(
-            model_name='user',
-            name='field_9',
+            model_name="user",
+            name="field_9",
             field=models.BigIntegerField(blank=True, null=True),
         ),
     ]
