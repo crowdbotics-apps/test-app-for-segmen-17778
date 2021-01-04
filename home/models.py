@@ -20,6 +20,146 @@ class CustomText(models.Model):
         null=True,
         blank=True,
     )
+    test_1 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+    test_2 = models.BigIntegerField(
+        null=True,
+        blank=True,
+    )
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
+
+    def __str__(self):
+        return self.title
+
+    @property
+    def api(self):
+        return f"/api/v1/customtext/{self.id}/"
+
+    @property
+    def field(self):
+        return "title"
 
     def __str__(self):
         return self.title
@@ -443,6 +583,102 @@ class HomePage(models.Model):
         null=True,
         blank=True,
     )
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
+
+    @property
+    def api(self):
+        return f"/api/v1/homepage/{self.id}/"
+
+    @property
+    def field(self):
+        return "body"
 
     @property
     def api(self):
